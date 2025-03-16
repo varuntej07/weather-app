@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\controllers",
+    "\\backend\\routes",
+    "\\weather",
+    "\\weather\\src",
+    "\\weather\\src\\components"
+  ],
+  "SelectedNode": "\\weather\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
